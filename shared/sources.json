@@ -24,6 +24,14 @@
     "color": "blue",
     "interval": 600000
   },
+  "ithome_hot": {
+    "name": "IT之家",
+    "type": "hottest",
+    "column": "tech",
+    "home": "https://www.ithome.com",
+    "color": "red",
+    "interval": 600000
+  },
   "weibo": {
     "title": "实时热搜",
     "name": "微博",
