@@ -16,7 +16,8 @@
     "interval": 600000,
     "title": "最新分享"
   },
-  "ithome_hot": {
+  "ithome-hot": {
+    "title": "最热文章"
     "name": "IT之家",
     "type": "hottest",
     "column": "tech",
