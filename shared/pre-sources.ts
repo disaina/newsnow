@@ -24,12 +24,13 @@ export const originSources = {
       },
     },
   },
-  "zhihu": {
-    name: "知乎",
-    type: "hottest",
-    column: "china",
-    color: "blue",
-    home: "https://www.zhihu.com",
+  "ithome_hot": {
+    "name": "IT之家",
+    "type": "hottest",
+    "column": "tech",
+    "home": "https://www.ithome.com",
+    "color": "red",
+    "interval": 600000
   },
   "weibo": {
     name: "微博",
