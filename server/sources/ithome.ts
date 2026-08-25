@@ -19,7 +19,7 @@ export default defineSource(async () => {
           url,
           title,
           id: url,
-          pubDate: parseRelativeDate(date, "Asia/Shanghai").valueOf(),
+          pubDate: tranformToUTC(date, undefined, "Asia/Shanghai"),
         })
       }
     }
